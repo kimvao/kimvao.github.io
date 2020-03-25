@@ -5,3 +5,8 @@ fields:
 - type: text
   name: layout
   label: layout
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
