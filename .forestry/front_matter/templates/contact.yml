@@ -2,11 +2,6 @@
 label: contact
 hide_body: false
 fields:
-- name: title
-  type: text
-  config:
-    required: false
-  label: title
 - name: layout
   type: text
   config:
