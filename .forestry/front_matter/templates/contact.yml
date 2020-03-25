@@ -8,11 +8,11 @@ fields:
   config:
     required: false
   label: layout
-- name: categories
+- name: title
   type: text
   config:
     required: false
-  label: categories
+  label: title
 - name: date
   type: datetime
   label: date
@@ -22,11 +22,11 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
-- name: title
+- name: categories
   type: text
   config:
     required: false
-  label: title
+  label: categories
 pages:
 - _posts/contact.md
 - contact.md
