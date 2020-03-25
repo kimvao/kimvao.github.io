@@ -7,5 +7,10 @@ fields:
   config:
     required: false
   label: title
+- name: layout
+  type: text
+  config:
+    required: false
+  label: layout
 pages:
 - _posts/contact.md
